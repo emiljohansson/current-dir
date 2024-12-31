@@ -10,7 +10,7 @@
     "directory",
     "current"
   ],
-  "author": "Emil Johansson <emiljohansson.se@gmail.com> (emiljohansson.se)",
+  "author": "Emil Johansson",
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.0.0"
